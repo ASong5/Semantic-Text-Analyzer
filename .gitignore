@@ -131,3 +131,6 @@ dist
 
 # pyright-config
 pyrightconfig.json
+
+# venv
+venv/
